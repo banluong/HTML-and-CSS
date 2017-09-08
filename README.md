@@ -1,2 +1,2 @@
 # HTML-and-CSS
-Folder showcasing basic HTML and CSS codes.
+Repository showcasing basic HTML and CSS codes.
