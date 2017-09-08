@@ -1,0 +1,31 @@
+body{
+  background-color: #295398;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #ffffff;
+  border: 30px solid #8dbad8;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p{
+
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+form{
+  margin-bottom: 10px;
+  font-size: 1.5em;
+}
+
+#submit{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.0em;
+  background-color: #f3ed84;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 5px;
+}
